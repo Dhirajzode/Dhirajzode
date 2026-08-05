@@ -1,11 +1,11 @@
-<br clear="both">
-
-<h2 data-importer="text" align="left">Hi ,👋<br>My Name is  Dhiraj Zode<br><br>I'm an aspiring DevOps & Cloud Engineer with a strong interest in building secure, scalable, and automated cloud infrastructure. I enjoy working with Linux systems, AWS services, and DevOps tools to solve real-world infrastructure and deployment challenges.<br><br>I have hands-on experience with AWS services such as EC2, VPC, IAM, S3, and Load Balancers, along with version control using Git and GitHub. I'm continuously expanding my skills in Docker, Kubernetes, Terraform, Jenkins, and CI/CD automation by building practical projects.<br><br>🚀 What I'm Working On<br><br>Building production-style AWS infrastructure projects<br>Learning Infrastructure as Code with Terraform<br>Creating CI/CD pipelines using Jenkins and GitHub Actions<br>Deploying containerized applications with Docker and Kubernetes<br><br>🛠️ Tech Stack<br><br>Cloud: AWS (EC2, VPC, S3, IAM, ELB, Auto Scaling, CloudWatch)<br>Operating System: Linux<br>Version Control: Git & GitHub<br>Containers: Docker<br>Orchestration: Kubernetes<br>Infrastructure as Code: Terraform<br>CI/CD: Jenkins, GitHub Actions<br>Scripting: Bash<br>Networking: TCP/IP, DNS, HTTP/HTTPS, SSH<br>🎯 Career Goal<br><br>My goal is to start my career as a DevOps or Cloud Engineer, where I can contribute to designing, automating, and managing reliable cloud infrastructure while continuously learning modern DevOps practices.<br><br>Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.</h2>
+<div data-importer="stats" align="center">
+</div>
 
 ###
 
-<div data-importer="stats" align="center">
-</div>
+<br clear="both">
+
+<h2 data-importer="text" align="left">Hi ,👋<br>My Name is  Dhiraj Zode<br><br>I'm an aspiring DevOps & Cloud Engineer with a strong interest in building secure, scalable, and automated cloud infrastructure. I enjoy working with Linux systems, AWS services, and DevOps tools to solve real-world infrastructure and deployment challenges.<br><br>I have hands-on experience with AWS services such as EC2, VPC, IAM, S3, and Load Balancers, along with version control using Git and GitHub. I'm continuously expanding my skills in Docker, Kubernetes, Terraform, Jenkins, and CI/CD automation by building practical projects.<br><br>🚀 What I'm Working On<br><br>Building production-style AWS infrastructure projects<br>Learning Infrastructure as Code with Terraform<br>Creating CI/CD pipelines using Jenkins and GitHub Actions<br>Deploying containerized applications with Docker and Kubernetes<br><br>🛠️ Tech Stack<br><br>Cloud: AWS (EC2, VPC, S3, IAM, ELB, Auto Scaling, CloudWatch)<br>Operating System: Linux<br>Version Control: Git & GitHub<br>Containers: Docker<br>Orchestration: Kubernetes<br>Infrastructure as Code: Terraform<br>CI/CD: Jenkins, GitHub Actions<br>Scripting: Bash<br>Networking: TCP/IP, DNS, HTTP/HTTPS, SSH<br>🎯 Career Goal<br><br>My goal is to start my career as a DevOps or Cloud Engineer, where I can contribute to designing, automating, and managing reliable cloud infrastructure while continuously learning modern DevOps practices.<br><br>Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.</h2>
 
 ###
 
@@ -78,19 +78,29 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/www.linkedin.com/in/dhiraj-zode-889189231&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="dhirajzode90@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="Dhiraj Zode 8208698281" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="www.linkedin.com/in/dhiraj-zode-889189231" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
+
+<br clear="both">
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzah/maurodesouzah/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzah/maurodesouzah/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzah/maurodesouzah/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhirajzode/dhirajzode/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhirajzode/dhirajzode/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mdhirajzode/dhirajzode/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
+
 ###
 
 <div data-importer="border">
